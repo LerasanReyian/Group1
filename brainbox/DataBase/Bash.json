@@ -1,0 +1,97 @@
+
+{
+    
+    "quiz": [{
+            "difficulty": "easy",
+            "question": "What is Java?",
+            "answer": "A programming language",
+            "category": "Java Programming",
+            "points": 10
+        }, {
+            "difficulty": "Hard",
+            "question": "What is the most Dangerous place here in Davao City?",
+            "answer": "Boulevard",
+            "category": "Trivia",
+            "points": 500000
+        }, {
+            "difficulty": "Hard",
+            "question": "What do you call a named storage location in Java that holds a value?",
+            "answer": "Variable",
+            "category": "Trivia",
+            "points": 99999
+        }, {
+            "difficulty": "Medium",
+            "question": "What is the most important language in programming?",
+            "answer": "Java",
+            "category": "Logic",
+            "points": 40
+        }, {
+}],
+    "users": {
+        "brainer": [{
+                "password": "swy",
+                "role": "Braineer",
+                "username": "mik",
+                "points": 0
+            }, {
+                "password": "hi",
+                "role": "Braineer",
+                "username": "her",
+                "points": 0
+            }, {
+                "password": "123",
+                "role": "Braineer",
+                "username": "Reyian",
+                "points": 0
+            }, {
+                "password": "yuson",
+                "role": "Braineer",
+                "username": "adriane excel",
+                "points": 0
+            }, {
+                "password": "12345",
+                "role": "Braineer",
+                "username": "Adriane",
+                "points": 0
+            }, {
+                "password": "123",
+                "role": "Braineer",
+                "username": "mits",
+                "points": 0
+            }, {
+                "password": "123",
+                "role": "Braineer",
+                "username": "tans",
+                "points": 0
+            },{
+                "password": "123",
+                "role": "Braineer",
+                "username": "Braineer",
+                "points": 0
+            }],
+        "brain": [{
+                "password": "jay",
+                "role": "Brain Master",
+                "username": "sir"
+            }, {
+                "password": "hi",
+                "role": "Brain Master",
+                "username": "shes"
+            }, {
+                "password": "mahipus",
+                "role": "Brain Master",
+                "username": "Nico"
+            }, {
+                "password": "hi",
+                "role": "Brain Master",
+                "username": "akon"
+            }, {
+                "password": "hi",
+                "role": "Brain Master",
+                "username": "boiTukla"
+            },{"password": "123",
+                "role": "Brain Master",
+                "username": "Brain Master"
+            }]
+    }
+}
